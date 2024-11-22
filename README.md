@@ -37,4 +37,4 @@ go test ./...
 
 ## License
 
-MIT
+Unlicense
